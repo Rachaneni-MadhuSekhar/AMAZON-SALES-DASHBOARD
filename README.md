@@ -26,20 +26,20 @@ This dashboard provides a comprehensive view of sales performance, profitability
 -Interact with filters and visuals to explore insights
 
 ## Dashboard Preview
-(Add your screenshot here — upload image in repo and link it)
-Markdown
-![Dashboard Preview](your-image-link.png)
-🎯 Use Cases
+![Dashboard Preview](https://github.com/Rachaneni-MadhuSekhar/AMAZON-SALES-DASHBOARD/blob/d71bd67abc6aa7c61d9abc2ec57d6b75699dd2b9/Screenshot%202026-05-04%20111347.png)
+
+## Use Cases
 Data Analyst Portfolio Project
 Business Performance Analysis
 Sales Trend Monitoring
 KPI Reporting
-📈 Future Improvements
+
+## Future Improvements
 Add forecasting models
 Include customer segmentation analysis
 Drill-through pages for detailed insights
 Integration with real-time data sources
-🤝 Contributing
+## Contributing
 Feel free to fork this repository and improve the dashboard or add new insights.
-📬 Contact
+## Contact
 If you have any questions or suggestions, feel free to connect!
